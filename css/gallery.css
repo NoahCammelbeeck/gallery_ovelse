@@ -16,5 +16,5 @@
 .gallery-item img:hover {
   opacity: 1;
   filter: brightness(1) grayscale(0) blur(0);
-  transition: 0.25s;
+  transition: 0.24s;
 }
